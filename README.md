@@ -113,12 +113,4 @@ cd yes-bank-stock-prediction
 
 Open Jupyter Notebook or Google Colab and run the notebook file (Yes_Bank_Stock_Prediction.ipynb).
 
-Follow the code execution steps to preprocess data, train models, and evaluate results.
 
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request.
-
-📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
